@@ -2,6 +2,6 @@
 
 Practicing Git!
 
-## Subheader
+## Sub Header
 
-More learn about git.
+Using Git
